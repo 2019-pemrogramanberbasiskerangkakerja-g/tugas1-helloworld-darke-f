@@ -1,0 +1,23 @@
+{
+  "name": "Tugas1_PBKK_G",
+  "version": "1.0.0",
+  "description": "Hello World with express js",
+  "main": "helloword.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node helloworld.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2019-pemrogramanberbasiskerangkakerja-g/tugas1-helloworld-darke-f.git"
+  },
+  "author": "Ariiq F",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2019-pemrogramanberbasiskerangkakerja-g/tugas1-helloworld-darke-f/issues"
+  },
+  "homepage": "https://github.com/2019-pemrogramanberbasiskerangkakerja-g/tugas1-helloworld-darke-f#readme"
+}
