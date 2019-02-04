@@ -10,4 +10,4 @@
 6. Jalankan **node helloworld.js** untuk menjalankan script
 7. Buka Browser dan akses menggunakan port yang telah dispesifikasikan di dalam file .js ke localhost:port atau 127.0.0.1:port (ex: localhost:99 atau 127.0.0.1:99)
 8. Contoh hasil dari script yang dijalankan :
-![result](res.PNG)
+![result](res.png)
